@@ -1,6 +1,5 @@
 import cairo
 import random
-import time 
 
 seed = random.randint(0,1001)
 random.seed(seed)

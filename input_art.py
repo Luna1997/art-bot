@@ -1,6 +1,5 @@
 import cairo
 import random
-import time 
 
 #Asking for input
 curves = int(input("How many curves do you want in the picture?: "))
