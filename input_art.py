@@ -2,9 +2,6 @@ import cairo
 import random
 import time 
 
-seed = random.randint(0,1001)
-random.seed(seed)
-
 #Asking for input
 curves = int(input("How many curves do you want in the picture?: "))
 lines = int(input("How many lines do you want in the picture?: "))
