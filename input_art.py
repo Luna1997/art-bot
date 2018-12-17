@@ -31,6 +31,5 @@ def make_img():
 			context.move_to(random.random(),random.random())
 			context.line_to(random.random(),random.random())
 			context.stroke()
-		time.sleep(0.05)
 		
 make_img()
